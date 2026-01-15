@@ -1,0 +1,15 @@
+{
+  "name": "githubuseractivity",
+  "version": "1.0.0",
+  "description": "CLI app to get github user activity ",
+  "license": "ISC",
+  "author": "Artem Lehkun",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "github-activity": "./main.js"
+  }
+}
